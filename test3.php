@@ -1,4 +1,4 @@
 <?php 
 
-echo "usando git de test";
+echo "usando git de test diff";
 ?>
